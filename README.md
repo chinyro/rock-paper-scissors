@@ -1,9 +1,9 @@
 # Rock Paper Scissors 👊🏼 🖐🏼 ✌🏼
 
-Player wins message:
+👩🏽 Player wins message:
 
 ![](images/rock-paper-scissors.gif)
 
-Computer wins message:
+🤖 Computer wins message:
 
 ![](images/rock-paper-scissors-robot.gif)
